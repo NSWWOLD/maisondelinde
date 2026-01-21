@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -31,7 +31,7 @@ header {
     height: 90vh;
     background: linear-gradient(rgba(15,61,46,0.6), rgba(15,61,46,0.6)),
                 url("https://images.unsplash.com/photo-1604908177522-040ff3f8b1c3") center/cover no-repeat;
-    color: white;
+    color: brown gold white;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -46,7 +46,7 @@ header h1 {
 
 header p {
     font-size: 1.3rem;
-    margin: 15px 0;
+    margin: 18px 0;
 }
 
 /* NAVIGATION FIXE */
@@ -61,7 +61,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: white brown;
     margin: 0 15px;
     text-decoration: none;
     font-weight: 500;
@@ -195,6 +195,9 @@ footer {
                 <div class="dish-name">Entrée Mix (viande & légumes – 2 pers.)</div>
             </div>
             <div class="price">20 €</div>
+            <div class="dish-name">Assortiment de Beignets (légumes – 2 pers.)</div>
+            </div>
+            <div class="price">16 €</div>
         </div>
         <div class="dish">
             <div>
@@ -247,6 +250,9 @@ footer {
     <div class="menu-section">
         <h2>Grillades</h2>
         <div class="dish">
+        <div class="dish-name">Assortiments De TANDOORIS (viandes – 2 pers.)</div>
+            </div>
+            <div class="price">35 €</div>
             <div>
                 <div class="dish-name">Poulet tikka</div>
             </div>
@@ -262,8 +268,11 @@ footer {
             <div>
                 <div class="dish-name">Seekh kebab</div>
             </div>
-            <div class="price">17 €</div>
+           <div class="price">17 €</div>
         </div>
+        <div class="dish-name">Agneau Tikka </div>
+            </div>
+            <div class="price">16 €</div>
         <div class="dish">
             <div>
                 <div class="dish-name">Poisson tikka</div>
@@ -348,6 +357,19 @@ footer {
         <h2>Poisson & Crevettes</h2>
         <div class="dish">
             <div>
+            <div class="dish-name">Crevette Curry</div>
+            </div>
+            <div class="price">18 €</div>
+              </div>
+            <div class="dish-name">Crevette Madras</div>
+            </div>
+            <div class="price">18 €</div>
+        </div>
+            <div class="dish-name">Crevette Jalfrezi</div>
+            </div>
+            <div class="price">19 €</div>
+                  </div>
+                  
                 <div class="dish-name">Poisson masala</div>
             </div>
             <div class="price">19 €</div>
@@ -372,9 +394,7 @@ footer {
         </div>
         <div class="dish">
             <div>
-                <div class="dish-name">Crevettes biryani</div>
-            </div>
-            <div class="price">21 €</div>
+                
         </div>
         <div class="dish">
             <div>
@@ -388,6 +408,9 @@ footer {
     <div class="menu-section">
         <h2>Biryani</h2>
         <div class="dish">
+        <div class="dish-name">Crevettes biryani</div>
+            </div>
+            <div class="price">21 €</div>
             <div>
                 <div class="dish-name">Agneau biryani</div>
             </div>
