@@ -369,7 +369,26 @@ footer {
             </div>
             <div class="price">19 €</div>
                   </div>
-                  
+        </div>
+            <div class="dish-name">Crevette Hyderabadi</div>
+            </div>
+            <div class="price">19 €</div>
+                  </div>    
+    </div>
+            <div class="dish-name">Crevette Saagwala/div>
+            </div>
+            <div class="price">19 €</div>
+                  </div>        
+     </div>
+            <div class="dish-name">Crevette Korma</div>
+            </div>
+            <div class="price">19 €</div>
+                  </div>          
+      </div>
+            <div class="dish-name">Gambas Masala</div>
+            </div>
+            <div class="price">26 €</div>
+                  </div>              
                 <div class="dish-name">Poisson masala</div>
             </div>
             <div class="price">19 €</div>
