@@ -6,10 +6,10 @@
 <title>Maison de l'Inde - Restaurant Indien</title>
 <style>
 :root {
-    --saffron: #D97706;
+    --sparkling saffron: #D97706;
     --green: #0F3D2E;
-    --red: #7A1F1F;
-    --ivory: #FAF7F2;
+    --dark red: #7A1F1F;
+    --sparkling ivory: #FAF7F2;
     --dark: #1c1c1c;
 }
 
@@ -23,12 +23,12 @@ body {
     font-family: "Segoe UI", sans-serif;
     background: var(--ivory);
     color: var(--dark);
-    line-height: 1.6;
+    line-height: 1.4;
 }
 
 /* HEADER */
 header {
-    height: 90vh;
+    height: 80vh;
     background: linear-gradient(rgba(15,61,46,0.6), rgba(15,61,46,0.6)),
                 url("https://images.unsplash.com/photo-1604908177522-040ff3f8b1c3") center/cover no-repeat;
     color: brown gold white;
@@ -46,7 +46,7 @@ header h1 {
 
 header p {
     font-size: 1.3rem;
-    margin: 18px 0;
+    margin: 12px 0;
 }
 
 /* NAVIGATION FIXE */
@@ -55,29 +55,29 @@ nav {
     top: 0;
     width: 100%;
     background: rgba(28,28,28,0.9);
-    padding: 15px;
+    padding: 12px;
     text-align: center;
     z-index: 10;
 }
 
 nav a {
     color: white brown;
-    margin: 0 15px;
+    margin: 0 12px;
     text-decoration: none;
     font-weight: 500;
 }
 
 /* SECTIONS */
 section {
-    max-width: 1400px;
+    max-width: 1300px;
     margin: auto;
-    padding: 80px 30px;
+    padding: 70px 20px;
 }
 
 h2 {
     font-size: 2.5rem;
     color: var(--green);
-    margin-bottom: 30px;
+    margin-bottom: 25px;
     text-align: center;
 }
 
@@ -85,12 +85,12 @@ h2 {
 .delivery-message {
     background-color: var(--saffron);
     color: white;
-    font-weight: 700;
+    font-weight: 650;
     text-align: center;
-    padding: 18px 20px;
+    padding: 14px 17px;
     border-radius: 8px;
     font-size: 1.1em;
-    margin: 40px 0;
+    margin: 35px 0;
 }
 
 /* MENU */
@@ -454,8 +454,7 @@ footer {
     <h2>Contact</h2>
     <p>📍 60, avenue du Général de Gaulle, 68300 Saint-Louis</p>
     <p>📞 09 53 41 65 14 / 06 27 57 44 13</p>
-    <p>📧 contact@maisondelinde.fr</p>
-    <p>🌐 www.maisondelinde.fr | Instagram: @maison_de_linde</p>
+    <p>🌐 | Instagram: @maison_de_linde</p>
 </section>
 
 <footer>
